@@ -1,6 +1,6 @@
 <?php
 
-namespace schmauch/bitbookDiff;
+namespace schmauch\bitbookDiff;
 
 class Diff {
  
