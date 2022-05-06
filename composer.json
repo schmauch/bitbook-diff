@@ -1,10 +1,6 @@
 {
-    // package name
     "name": "schmauch/bitbook-diff",
-
-    // package type
     "type": "library",
-
     "description": "Show differences of two strings",
     "keywords": ["yii2", "diff", "helper"],
     "license": "GPL-3.0-or-later",
@@ -14,15 +10,11 @@
             "email": "mail@roger-schmutz.com"
         }
     ],
-
-    // package dependencies
     "require": {
     },
-
-    // class autoloading specs
     "autoload": {
         "psr-4": {
-            "schmauch\\bitbook-diff": ""
+            "schmauch\\bitbook-diff\\": ""
         }
     }
 }
